@@ -29,6 +29,10 @@ pytest>=7.4.0
 pytest-asyncio>=0.21.0
 pytest-mock>=3.11.0
 
+# Web hosting
+Flask>=2.3.0
+gunicorn>=21.0.0
+
 # Development
 pre-commit>=3.3.0
 black>=23.0.0
